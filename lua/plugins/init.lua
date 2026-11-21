@@ -41,7 +41,7 @@ return {
     opts = {
       ensure_installed = {
         "vim", "lua", "vimdoc", "html", "css", 
-        "cpp", "yaml"
+        "cpp", "yaml", "gopls", "rust-analyzer"
       },
       highlight = {
         enable = true,
